@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nameboard.co.in/sitemap.xml
